@@ -119,12 +119,12 @@ estructura de un objeto
 //   };
 // }
 
-// let nombre = prompt("ingrese el nombre")
-// let edad = prompt("ingrese el edad")
-// let direccion = prompt("ingrese el direecion")
+let nombre = prompt("ingrese el nombre")
+let edad = prompt("ingrese el edad")
+let direccion = prompt("ingrese el direecion")
 
-// const persona = new Persona(nombre, edad, direccion);
-// console.log(persona);
+const persona = new Persona(nombre, edad, direccion);
+console.log(persona);
 
 // persona.hablar();
 
